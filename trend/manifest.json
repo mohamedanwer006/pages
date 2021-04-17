@@ -1,6 +1,6 @@
 {
-    "name": "trend",
-    "short_name": "trend",
+    "name": "bad_app",
+    "short_name": "bad_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
